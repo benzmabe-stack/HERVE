@@ -1,0 +1,6 @@
+{
+  "name": "HP Navigate V2",
+  "description": "Professional Android Internet Browser with advanced navigation, download manager, AI assistant, and security features.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
